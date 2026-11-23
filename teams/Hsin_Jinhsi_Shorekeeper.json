@@ -6,13 +6,14 @@
     "Jinhsi",
     "Shorekeeper"
   ],
-  "totalCodes": 1,
+  "totalCodes": 2,
   "jsonUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/teams/Hsin_Jinhsi_Shorekeeper.json",
   "codes": [
     {
       "filename": "Hsin_Jinhsi_Shorekeeper_楽山_1.1.0.zip",
       "downloadUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/Hsin_Jinhsi_Shorekeeper_%E6%A5%BD%E5%B1%B1_1.1.0.zip",
       "rawUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/Hsin_Jinhsi_Shorekeeper_%E6%A5%BD%E5%B1%B1_1.1.0.zip",
+      "sha256": "3d9866f2dc7a832fb9ff1ae41db700c7e5513c0901fdbb7a13db27a30ca876c8",
       "name": "Hsin_Jinhsi_Shorekeeper",
       "description": "心汐守轮椅轴 \n样本：61心01汐21守 \n共效：心128 汐122 守280 \n位置：一号位守 二号位汐 三号位心 \n实机已跑通 复现难度不高 加了很多的保底 但是由于今汐会卡CD可能会导致流程拉长最后没有4R 需要多次尝试 \n10/7 优化了部分流程",
       "author": "楽山",
@@ -27,6 +28,26 @@
       "sizeFormatted": "47.06 KB",
       "timestamp": 1791428798,
       "modifiedAt": "2026-10-08T03:06:38.000Z"
+    },
+    {
+      "filename": "Hsin_Jinhsi_Shorekeeper_阿瞎_1.0.21.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/Hsin_Jinhsi_Shorekeeper_%E9%98%BF%E7%9E%8E_1.0.21.zip",
+      "rawUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/Hsin_Jinhsi_Shorekeeper_%E9%98%BF%E7%9E%8E_1.0.21.zip",
+      "sha256": "aaf1c3af67c1648028de247cad22f73312355c908b901a538822541a3d417a02",
+      "name": "Hsin_Jinhsi_Shorekeeper",
+      "description": "心汐守轴，120共效心已跑通，今汐全程不开大招无共效需求，也不要手动开启大招，大招问题等待后续优化。轴参考B站@一只迷茫的猪基础上做出改动。后续可能会继续优化轴长问题，争取压进30秒",
+      "author": "阿瞎",
+      "version": "1.0.21",
+      "team": "Hsin, Jinhsi, Shorekeeper",
+      "members": [
+        "Hsin",
+        "Jinhsi",
+        "Shorekeeper"
+      ],
+      "size": 13580,
+      "sizeFormatted": "13.26 KB",
+      "timestamp": 1795191009,
+      "modifiedAt": "2026-11-20T16:10:09.000Z"
     }
   ]
 }

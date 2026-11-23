@@ -1,0 +1,33 @@
+{
+  "team": "Hsin, Lily, Suoming",
+  "slug": "Hsin_Lily_Suoming",
+  "members": [
+    "Hsin",
+    "Lily",
+    "Suoming"
+  ],
+  "totalCodes": 1,
+  "jsonUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/teams/Hsin_Lily_Suoming.json",
+  "codes": [
+    {
+      "filename": "Hsin_Lily_Suoming_楽山_1.0.1.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/Hsin_Lily_Suoming_%E6%A5%BD%E5%B1%B1_1.0.1.zip",
+      "rawUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/Hsin_Lily_Suoming_%E6%A5%BD%E5%B1%B1_1.0.1.zip",
+      "sha256": "b8c0156e76d1017060873aeb186fd38c1c7db2a4667b17d691f29e2499b1fffb",
+      "name": "Hsin_Lily_Suoming",
+      "description": "心锁莉轮椅轴\n样本：61心 01锁 00莉\n共效：心125 锁130 莉莉260\n位置：一号位莉莉 二号位锁瞑 三号位心\n场景：【矩阵/深塔】\n容错率高，没什么好说的，基础队伍 比较稳定",
+      "author": "楽山",
+      "version": "1.0.1",
+      "team": "Hsin, Lily, Suoming",
+      "members": [
+        "Hsin",
+        "Lily",
+        "Suoming"
+      ],
+      "size": 47558,
+      "sizeFormatted": "46.44 KB",
+      "timestamp": 1795191009,
+      "modifiedAt": "2026-11-20T16:10:09.000Z"
+    }
+  ]
+}

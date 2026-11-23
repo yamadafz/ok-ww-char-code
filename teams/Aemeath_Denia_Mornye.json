@@ -1,0 +1,33 @@
+{
+  "team": "Aemeath, Denia, Mornye",
+  "slug": "Aemeath_Denia_Mornye",
+  "members": [
+    "Aemeath",
+    "Denia",
+    "Mornye"
+  ],
+  "totalCodes": 1,
+  "jsonUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/teams/Aemeath_Denia_Mornye.json",
+  "codes": [
+    {
+      "filename": "Aemeath_Denia_Mornye_绯华永眠_1.0.0.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/Aemeath_Denia_Mornye_%E7%BB%AF%E5%8D%8E%E6%B0%B8%E7%9C%A0_1.0.0.zip",
+      "rawUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/Aemeath_Denia_Mornye_%E7%BB%AF%E5%8D%8E%E6%B0%B8%E7%9C%A0_1.0.0.zip",
+      "sha256": "5807532f512a5d1841a8610c67a3f1d33cdf27932df440eac3fb494a985ca8b7",
+      "name": "Aemeath_Denia_Mornye",
+      "description": "学妹聚爆，基于基本角色代码微调",
+      "author": "绯华永眠",
+      "version": "1.0.0",
+      "team": "Aemeath, Denia, Mornye",
+      "members": [
+        "Aemeath",
+        "Denia",
+        "Mornye"
+      ],
+      "size": 5224,
+      "sizeFormatted": "5.1 KB",
+      "timestamp": 1795191009,
+      "modifiedAt": "2026-11-20T16:10:09.000Z"
+    }
+  ]
+}

@@ -6,6 +6,22 @@
 
 ---
 
+
+## 2026-11-24 合并：XJTU-WW 1.3.0 离线工坊包（+10 配置 → 54 队 / 82 配置）
+
+新增 10 个配置来自 XJTU-WW 1.3.0 的离线工坊包（上游 `GodRaymond233/ok-ww-char-code`、
+s2a 镜像），含 心鎖卜 1.0.0、弗卜维施法顺序 1.2.0、Hsin/Lily/Suoming 1.0.1 等；
+原有 72 个配置全部保留，压缩包**逐字节未改动**。
+
+**署名与许可（务必阅读 `WORKSHOP-NOTICES.md`）**：
+
+- 各包保留作者 `team.json` 与原始角色脚本；源仓库、s2a 镜像与 XJTU-WW 离线包的分发
+  经维护者确认获作者许可，**该许可不构成对其它用途的一揽子授权**。
+- 楽山《Hsin/Lily/Suoming 1.0.1》经 wwlibrary 以 **CC BY-NC-SA 4.0** 分发：
+  须署名、**非商业**、**相同方式共享**。本仓库作为非商业社区镜像保留该条款。
+- 弗卜维施法顺序 1.2.0 由 Desolatehao 发布（包内作者 Codex），仅原样打包 manifest 与三个角色脚本。
+- 完整作者名单与来源链接见 `WORKSHOP-NOTICES.md`（随包入库）。
+
 # 鸣潮角色配置代码仓库 (Wuthering Waves Character Codes)
 
 [English Version](#-english-documentation) | [在线浏览与下载平台](https://github.com/yamadafz/ok-ww-char-code) | [teams.json 全量接口](https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/teams.json)

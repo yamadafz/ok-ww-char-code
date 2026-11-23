@@ -6,13 +6,14 @@
     "Mornye",
     "Rebecca"
   ],
-  "totalCodes": 1,
+  "totalCodes": 2,
   "jsonUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/teams/Lucy_Mornye_Rebecca.json",
   "codes": [
     {
       "filename": "Lucy_Mornye_Rebecca_楽山_1.0.0.zip",
       "downloadUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/Lucy_Mornye_Rebecca_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
       "rawUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/Lucy_Mornye_Rebecca_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+      "sha256": "3ccbb0075792e3cc77e437f4d4de843a89dd4e6404339048159e6e0d7e34b08a",
       "name": "Lucy_Mornye_Rebecca",
       "description": "露丽莫轮椅轴\n样本：41露西00丽贝卡10莫宁\n共效：露西120丽贝卡132莫宁270\n位置：一号位露西 二号位丽贝卡 三号位莫宁\n实机已跑通，复现难度视boss而定，一般来说问题不大。不清楚2链以下露西大招对于选择项有什么影响，如果有问题可以联系我。\nTips：露西和丽贝卡大招需要视野里有怪物，如果怪物飞天需要手动调整下视角",
       "author": "楽山",
@@ -27,6 +28,26 @@
       "sizeFormatted": "45.71 KB",
       "timestamp": 1789440519,
       "modifiedAt": "2026-09-15T02:48:39.000Z"
+    },
+    {
+      "filename": "Lucy_Mornye_Rebecca_芝士奶酪_1.0.0.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/Lucy_Mornye_Rebecca_%E8%8A%9D%E5%A3%AB%E5%A5%B6%E9%85%AA_1.0.0.zip",
+      "rawUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/Lucy_Mornye_Rebecca_%E8%8A%9D%E5%A3%AB%E5%A5%B6%E9%85%AA_1.0.0.zip",
+      "sha256": "c9cb708bf80fa50e607354952346150e0c4869bc4aadb0397fef6806773fc10a",
+      "name": "Lucy_Mornye_Rebecca-5r双处决",
+      "description": "【使用说明｜露西·丽贝卡·莫宁 5R双处决】\n1. 共鸣链：最低适配【待测试】；实机测试配置：露西61（专武）、丽贝卡01（专武）、莫宁10。以上是测试配置，暂不代表最低要求。\n2. 共鸣效率：最低适配【待测试】；实机测试值：露西108.4%、丽贝卡149.2%、莫宁261.8%。武器/声骸/效率变化可能影响循环。\n3. 一号位：露西。\n4. 自动切换治疗位：关闭 OK-WW 的“开局切奶妈/自动切治疗位”功能，避免打乱开场角色。\n5. 必要提醒：本轴适用于深塔和矩阵。开场需要完成自动索敌确认，再执行露西Z—闪避—续Z。首次使用请实机检查切人、技能及预输入是否正常。\n6. 轴特色：5R双处决循环；F/Q机会技能、特殊Z跨STEP预输入和HOLD继承、丽贝卡强化Z消费确认及偏斜CD保护。\n7. 版本规范：当前1.0.0（按现有版本保留）。\n联系：3群，QQ 1551547950。",
+      "author": "芝士奶酪",
+      "version": "1.0.0",
+      "team": "Lucy, Mornye, Rebecca",
+      "members": [
+        "Lucy",
+        "Mornye",
+        "Rebecca"
+      ],
+      "size": 65167,
+      "sizeFormatted": "63.64 KB",
+      "timestamp": 1795191009,
+      "modifiedAt": "2026-11-20T16:10:09.000Z"
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "team": "Hiyuki, Sanhua, Verina",
+  "slug": "Hiyuki_Sanhua_Verina",
+  "members": [
+    "Hiyuki",
+    "Sanhua",
+    "Verina"
+  ],
+  "totalCodes": 1,
+  "jsonUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/teams/Hiyuki_Sanhua_Verina.json",
+  "codes": [
+    {
+      "filename": "Hiyuki_Sanhua_Verina_我不是懒狗_1.0.0.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/Hiyuki_Sanhua_Verina_%E6%88%91%E4%B8%8D%E6%98%AF%E6%87%92%E7%8B%97_1.0.0.zip",
+      "rawUrl": "https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/Hiyuki_Sanhua_Verina_%E6%88%91%E4%B8%8D%E6%98%AF%E6%87%92%E7%8B%97_1.0.0.zip",
+      "sha256": "43600cd2610a7ede56c413d46712d308836d069d5f5066dda64c8d05d1536de0",
+      "name": "Hiyuki_Sanhua_Verina",
+      "description": "大世界队伍，超低配队，都是0+0，共率高点不卡手，可以打出三居合",
+      "author": "我不是懒狗",
+      "version": "1.0.0",
+      "team": "Hiyuki, Sanhua, Verina",
+      "members": [
+        "Hiyuki",
+        "Sanhua",
+        "Verina"
+      ],
+      "size": 4448,
+      "sizeFormatted": "4.34 KB",
+      "timestamp": 1795191009,
+      "modifiedAt": "2026-11-20T16:10:09.000Z"
+    }
+  ]
+}
